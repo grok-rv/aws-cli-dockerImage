@@ -22,6 +22,7 @@ Default output format [None]:
 List s3 buckets in the region:
 
 root@54c2a334d845:/aws# aws s3 ls
+
 2019-09-20 02:42:04 test-terras
 
 root@54c2a334d845:/aws# exit
