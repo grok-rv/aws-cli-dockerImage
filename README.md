@@ -2,6 +2,7 @@
 Dockerfile to create image for running aws-cli
 
 Execution:
+
 ##################################
 
 Build docker image: 
