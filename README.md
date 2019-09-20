@@ -9,7 +9,7 @@ ubuntu@rv965d3c2c:~$docker build -t aws-cli .
 
 create container to configure aws iam access keys
 
-ubuntu@rv965d3c2c:~$ docker run --name awscli-axioms -it axiomenergycli-test
+ubuntu@rv965d3c2c:~$ docker run --name awscli-test -it aws-cli
 root@54c2a334d845:/aws#
 
 
